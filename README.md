@@ -1,3 +1,6 @@
 # patgreenwood.github.io
-PatGreenwood's Website
-This page is in development. Please come back soon to see the finished product!
+Pat Greenwood's Website
+
+This website is in development. 
+Changes will be made continuously until the final product.
+Always open to comments, concerns, and suggestions.
